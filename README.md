@@ -10,4 +10,4 @@
 - 😄 Pronouns: Nolions
 - ⚡ Fun fact: Program, Baesball and model
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolions)](https://github.com/Nolions)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolions&theme=dark)](https://github.com/Nolions)
