@@ -1,14 +1,7 @@
 # About Me
 
+### 😄 Hi I‘m Nolions. I am a Software Engineer, focus on `Backend`.
 
-<!-- - 🔭 I’m currently working on ...  -->
-- 🌱 I’m currently learning `Golang` and `Jetpack Compose`
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!--- 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: lv2410@gmail.com
-- 😄 Pronouns: Nolions
-- ⚡ Fun fact: Program, Baesball and model
 
 ```
 package main
@@ -35,14 +28,15 @@ func main() {
 	me.Email = "lv2410@gmail.com"
 	me.Position = "Backend Engineer"
 	me.CurrentFocus = "https://github.com/Nolions/"
-	me.Program = Program {
-		Skills: []string{"Golang", "Kotlin", "Android", "PHP", "Laravel"},
-		Learning: []string{"Blockchain", "Jetpack Compose", "Compose Multiplatform", "Golang", "Clean Code", "Design Patterns"},
-		Tools: []string{"PHPStorm", "Goland", "IntelliJ Idea", "Vscode"},
+	me.Program = Program{
+		Skills:   []string{"Go", "Kotlin", "Android", "PHP", "Laravel"},
+		Learning: []string{"Blockchain", "Jetpack Compose", "Compose Multiplatform", "Go", "Clean Code", "Design Patterns"},
+		Tools:    []string{"PHPStorm", "Goland", "IntelliJ Idea", "Vscode"},
 	}
-	
+
 	fmt.Println(me)
 }
+
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolions&theme=dark)](https://github.com/Nolions)
