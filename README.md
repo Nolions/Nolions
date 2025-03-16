@@ -29,8 +29,8 @@ func main() {
 	me.Position = "Backend Engineer"
 	me.CurrentFocus = "https://github.com/Nolions/"
 	me.Program = Program{
-		Skills:   []string{"Go", "Kotlin", "Android", "PHP", "Laravel"},
-		Learning: []string{"Blockchain", "Jetpack Compose", "Compose Multiplatform", "Go", "Clean Code", "Design Patterns"},
+		Skills:   []string{"Go", "Java", "Kotlin", "Android", "PHP", "Laravel"},
+		Learning: []string{"Go", "PHP", "Java", "Kotlin", "CICD", "Clean Code", "Design Patterns"},
 		Tools:    []string{"PHPStorm", "Goland", "IntelliJ Idea", "Vscode"},
 	}
 
