@@ -42,3 +42,6 @@ func main() {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolions&theme=dark)](https://github.com/Nolions)
 
 [![Nolions's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolions&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Nolions)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nolions)](https://leetcode.com/nolions/)
+
