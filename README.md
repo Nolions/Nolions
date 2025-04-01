@@ -43,5 +43,5 @@ func main() {
 
 [![Nolions's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolions&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Nolions)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nolions)](https://leetcode.com/nolions/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nolions?ext=activity)](https://leetcode.com/nolions/)
 
