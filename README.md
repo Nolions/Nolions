@@ -12,6 +12,7 @@ type Person struct {
 	Name         string
 	Email        string
 	Position     string
+	Blog	     string	
 	CurrentFocus string
 	Program      Program
 }
@@ -27,6 +28,7 @@ func main() {
 	me.Name = "Nolions Chen"
 	me.Email = "lv2410@gmail.com"
 	me.Position = "Backend Engineer"
+	me.Blog = "https://medium.com/@nolions"
 	me.CurrentFocus = "https://github.com/Nolions/"
 	me.Program = Program{
 		Skills:   []string{"Go", "Java", "Kotlin", "Android", "PHP", "Laravel"},
